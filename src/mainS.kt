@@ -1,6 +1,14 @@
 fun main(args: Array<String>) {
 
-    println("hello world")
+    val furkan = """
+          bu benım evim
+           *
+         *  *
+        * *  *
+        *    *
+        *    *
+        ******
+        """
 
-
+    print(furkan)
 }
